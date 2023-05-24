@@ -20,7 +20,7 @@ export default function Home() {
           },
         }}
       >
-        About Us with
+        About Us with object
       </Link>
     </div>
   );
