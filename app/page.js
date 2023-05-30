@@ -24,6 +24,7 @@ export default function Home() {
       </Link>
       <br />
       <br />
+      <br />
     </div>
   );
 }
