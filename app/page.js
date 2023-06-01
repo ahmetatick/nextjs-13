@@ -23,6 +23,7 @@ export default function Home() {
         About Us with object
       </Link>
       <br />
+      <br />
     </div>
   );
 }
